@@ -1,0 +1,20 @@
+# Build folders
+Debug/
+Release/
+
+# Generated files
+*.o
+*.d
+*.su
+*.elf
+*.map
+*.bin
+*.hex
+*.list
+
+# IDE metadata
+.metadata/
+
+# OS files
+.DS_Store
+Thumbs.db
